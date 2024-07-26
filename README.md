@@ -1,4 +1,4 @@
-Sure, here's a sample README.md for your GitHub repository:
+
 
 # Image Classification with PyTorch
 
